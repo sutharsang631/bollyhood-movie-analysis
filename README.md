@@ -19,3 +19,5 @@ to find the gender stereotypes in Bollywood movie analysis
   
 # conclusion
   I think this analysis is enough for directors to understand inportants of the gender and  find comman thing related between the genders and able to find the count through  my analysis
+
+# Screenshots are attached with the file
