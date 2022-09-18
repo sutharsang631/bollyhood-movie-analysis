@@ -14,6 +14,9 @@ to find the gender stereotypes in Bollywood movie analysis
 8. Checking with input from user and get the ouput(MALE AND FEMALE mention  centrality  INPUT AND OUTPUT.ipynb)
 9. Comparision between two gender stereotypes like mentions centrolity, adjective
 
+#Gender bias link
+Input plot script from the user and to find the Gender bias presence and the count of the gender in the given passage.
+
 # Output
   we need mention_centrality, total_centrality, average_centrality as input and get count as output
   
